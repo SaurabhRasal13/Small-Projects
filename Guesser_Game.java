@@ -1,3 +1,5 @@
+// Guesser Game -> Updated Code -> Individual player function is mention for guessing the game
+
 import java.util.Scanner;
 
 class Coach
@@ -121,8 +123,7 @@ public class Guesser_Game {
 
 
 
-
-
+//*********************** Basic code -> No individual player function is mention ***************************** //
 
 /*
 import java.util.*;
